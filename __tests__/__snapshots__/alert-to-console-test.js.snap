@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`transforms alert to console 1`] = `
+"function test() {
+  const a = 5;
+  console.warn(a);
+}"
+`;
