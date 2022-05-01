@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`remove data-test-id attribute from JSX 1`] = `
+"const React = require('react');
+
+function App() {
+  return /*#__PURE__*/React.createElement(\\"div\\", null, \\"world\\");
+}"
+`;
